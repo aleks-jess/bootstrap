@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 .clearfix {
   *zoom: 1;
 }
@@ -6155,3 +6159,6 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+</style>
+</head>
+</html>
